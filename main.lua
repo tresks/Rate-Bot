@@ -39,7 +39,7 @@ for i,v in pairs(game.Players:GetPlayers()) do
                     
                 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
                 local url =
-                    "https://discord.com/api/webhooks/974360787235790928/a7XMvCDgKEtEAf5w5dcv2NndGJjG_z-eXK4UlCZuyso1Zk8v_0GSJ3uqxoLCwwbFeeSw"
+                    "WEBHOOK HERE"
                 local data = {
                     ["embeds"] = {
                         {
@@ -98,7 +98,7 @@ game.Players.PlayerAdded:Connect(function(player)
                     
                 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
                 local url =
-                    "https://discord.com/api/webhooks/974360787235790928/a7XMvCDgKEtEAf5w5dcv2NndGJjG_z-eXK4UlCZuyso1Zk8v_0GSJ3uqxoLCwwbFeeSw"
+                    "WEBHOOK HERE"
                 local data = {
                     ["embeds"] = {
                         {
