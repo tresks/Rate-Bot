@@ -1,6 +1,6 @@
 # Rate Bot
 
-This is literally just a bot that will rate people then send it to a webhook
+This is literally just a bot that will rate people then send it to a webhook edit it to your liking if you want
 
 ## Script:
 ```lua
