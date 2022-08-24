@@ -41,7 +41,7 @@ game.ReplicatedStorage.DefaultChatSystemChatEvents.OnMessageDoneFiltering.OnClie
                 local headers = {
                     ["content-type"] = "application/json" 
                 }
-                syn.request({Url = "https://discord.com/api/webhooks/1011832551549186108/m9-2xMuDkJDvNuqWIq6YXDAcUGKoA907F5dV5NWwm8z_7kdBPjZIwI1Nn6yTcH-wJszV", Body = game:GetService("HttpService"):JSONEncode(data), Method = "POST", Headers = headers})
+                syn.request({Url = "webhook", Body = game:GetService("HttpService"):JSONEncode(data), Method = "POST", Headers = headers})
             end
         end
     end
