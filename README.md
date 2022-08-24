@@ -15,7 +15,7 @@ that's all, if you want more use Rate My Shitter its 100x better than this bag o
 
 ```
 Update:
-[+] Fixed :+1:
+[+] Fixed 👍
 ```
 
 ##### Enjoy the script.
