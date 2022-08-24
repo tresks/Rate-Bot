@@ -1,7 +1,7 @@
 getgenv().rating = true
 getgenv().list = {}
 getgenv().blacklist = {}
-getgenv().webhook = 
+getgenv().webhook = ""
 game.ReplicatedStorage.DefaultChatSystemChatEvents.OnMessageDoneFiltering.OnClientEvent:Connect(function(messageData)
     if messageData.FromSpeaker ~= game.Players.LocalPlayer.Name then
         local message = string.lower(messageData.Message)
