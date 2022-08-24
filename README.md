@@ -13,7 +13,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tresks/Rate-Bot/main/
 
 that's all, if you want more use Rate My Shitter its 100x better than this bag of shit and will most likely get put into Rate My Shitter at one point
 
-```Update:
-[+] Fixed```
+```Update: [+] Fixed```
 
 ##### Enjoy the script.
